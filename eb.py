@@ -37,7 +37,7 @@ while True:
       counter += 1
   if counter == 0:
     
-      output = "sorry, I don't really understand. why not try using different words instead!"
+      output = "sorry, I don't really understand. why not try using different words instead! Use words like sad, happy, tired, angry, stressed and troubled"
 
   elif counter == 1:
     
